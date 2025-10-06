@@ -1,4 +1,4 @@
-# Exercise-HTML-CSc
+# Exercise-HTML-CSS
 
 Welcome to my project repository! In this space, I document my learning journey as I explore the basics of web development, specifically focusing on HTML and CSS.
 
